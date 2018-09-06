@@ -1,0 +1,44 @@
+
+
+#headerB {
+  margin-top: 4%;
+}
+
+/* Footer Section */
+#footerHome {
+  margin-top: 2%;
+}
+
+/* Gallery Folders */
+#galleryFolders {
+  border: 1px solid black;
+  margin: 5%;
+  height: auto;
+  padding: 2%;
+}
+
+/* Gallery Folders Side Bar */
+#galleryFolderSideBar {
+  border: 1px solid red;
+  height: 450px;
+  /* margin: 3%; */
+}
+
+/* Carousel Home Side Bar */
+#carouselHomeSideBar {
+  /* margin: 2%; */
+  border: 1px solid green;
+  height: 450px;
+}
+
+#carouselHeight {
+  height: 450px;
+}
+
+
+/* Bottom Grid */
+#bottomGrid {
+  border: 1px solid blue;
+  height: 500px;
+  margin: 5%;
+}
